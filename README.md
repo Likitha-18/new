@@ -1,1 +1,2 @@
-my new project
+# My new project
+welcome to my new project
